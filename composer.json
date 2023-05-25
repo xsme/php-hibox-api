@@ -1,0 +1,19 @@
+{
+    "name": "xsme/php-hibox-api",
+    "description": "Komunikacja poprzez API do systemu 4box",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "xsme\\HiboxApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastian Rzeszutek",
+            "email": "sebastian.rzeszutek@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
